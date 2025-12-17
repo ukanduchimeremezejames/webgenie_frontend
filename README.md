@@ -1,4 +1,3 @@
-
   # WebGenie
 
   This is the codebase for the WebGenie project, the UI design is accessible on figma as shared. 
